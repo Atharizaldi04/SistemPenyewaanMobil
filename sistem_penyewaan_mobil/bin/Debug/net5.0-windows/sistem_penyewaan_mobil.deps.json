@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sistem_penyewaan_mobil/1.0.0": {
+        "runtime": {
+          "sistem_penyewaan_mobil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistem_penyewaan_mobil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
