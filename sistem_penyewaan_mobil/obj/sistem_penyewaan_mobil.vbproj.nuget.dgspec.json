@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {}
+    "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {}
   },
   "projects": {
-    "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {
+    "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+        "projectUniqueName": "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
         "projectName": "sistem_penyewaan_mobil",
-        "projectPath": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+        "projectPath": "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
         "packagesPath": "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\obj\\",
+        "outputPath": "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
