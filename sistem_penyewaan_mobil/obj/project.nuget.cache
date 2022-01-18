@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JyomyjRU+bpdaf4EOAl9y4145ahcnSfoq3XLv07YWJkiKb1DQVwry0GxYMQGLWe0oeBryZJ82xh4ffghIbelsw==",
   "success": true,
   "projectFilePath": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+=======
+  "dgSpecHash": "dDzQ4vkW2jzsZ04tdQrxyiPQeQqotwzEAda6WiMGG6RV6McqIOr7IVdr9puqN5TuvmW3BCvzyYA7yh8DN3Pcdg==",
+  "success": true,
+  "projectFilePath": "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+>>>>>>> Angga
   "expectedPackageFiles": [
     "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>sistem_penyewaan_mobil</RootNamespace>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>sistem_penyewaan_mobil.Home</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>
