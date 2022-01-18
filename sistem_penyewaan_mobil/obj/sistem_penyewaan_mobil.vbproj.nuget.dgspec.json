@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "D:\\Angga\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {}
   },
   "projects": {
@@ -26,6 +27,19 @@
         "packagesPath": "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\",
         "outputPath": "D:\\Mytha\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\obj\\",
 >>>>>>> Mytha
+=======
+    "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {}
+  },
+  "projects": {
+    "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+        "projectName": "sistem_penyewaan_mobil",
+        "projectPath": "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+        "packagesPath": "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\",
+        "outputPath": "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\obj\\",
+>>>>>>> valerio
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

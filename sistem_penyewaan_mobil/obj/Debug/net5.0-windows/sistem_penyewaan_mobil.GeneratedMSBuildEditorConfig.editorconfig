@@ -8,7 +8,11 @@ build_property.IncludeAllContentForSelfExtract =
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = sistem_penyewaan_mobil
 <<<<<<< HEAD
+<<<<<<< HEAD
 build_property.ProjectDir = D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\
 =======
 build_property.ProjectDir = D:\Mytha\SistemPenyewaanMobil\sistem_penyewaan_mobil\
 >>>>>>> Mytha
+=======
+build_property.ProjectDir = D:\Valerio\SistemPenyewaanMobil\sistem_penyewaan_mobil\
+>>>>>>> valerio

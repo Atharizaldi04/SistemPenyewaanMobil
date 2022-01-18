@@ -2,6 +2,7 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "JyomyjRU+bpdaf4EOAl9y4145ahcnSfoq3XLv07YWJkiKb1DQVwry0GxYMQGLWe0oeBryZJ82xh4ffghIbelsw==",
   "success": true,
   "projectFilePath": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
@@ -35,6 +36,11 @@
   "dgSpecHash": "tGWkA0NrmWhO1RaHowEGtne+fLNfDrwaUcgdkE+nJcaBQPHe4EDHq1JbwONoUQb3wYALtFd7nhlOtg0eP9qtlg==",
   "success": true,
   "projectFilePath": "D:\\Mytha\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+=======
+  "dgSpecHash": "YtX4+YYGx8lwfWc17ktNwtzrnqRKz0GKwXQIXrI5HXs9JcZdj3n0BDulD/6xNo+Fem2i4w7lFBPGATMto0bYeA==",
+  "success": true,
+  "projectFilePath": "D:\\Valerio\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+>>>>>>> valerio
   "expectedPackageFiles": [],
 >>>>>>> Mytha
   "logs": []
