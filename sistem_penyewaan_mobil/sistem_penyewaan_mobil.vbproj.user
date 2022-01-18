@@ -2,6 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Update="EditSewa.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -48,6 +49,12 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="TambahSewa.vb">
+=======
+    <Compile Update="JenisMobil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TambahJenisMobil.vb">
+>>>>>>> Mytha
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

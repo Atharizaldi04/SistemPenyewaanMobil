@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "JyomyjRU+bpdaf4EOAl9y4145ahcnSfoq3XLv07YWJkiKb1DQVwry0GxYMQGLWe0oeBryZJ82xh4ffghIbelsw==",
   "success": true,
   "projectFilePath": "D:\\Athar\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
@@ -30,5 +31,11 @@
     "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512",
     "C:\\Users\\Athar Rizaldi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "tGWkA0NrmWhO1RaHowEGtne+fLNfDrwaUcgdkE+nJcaBQPHe4EDHq1JbwONoUQb3wYALtFd7nhlOtg0eP9qtlg==",
+  "success": true,
+  "projectFilePath": "D:\\Mytha\\SistemPenyewaanMobil\\sistem_penyewaan_mobil\\sistem_penyewaan_mobil.vbproj",
+  "expectedPackageFiles": [],
+>>>>>>> Mytha
   "logs": []
 }
