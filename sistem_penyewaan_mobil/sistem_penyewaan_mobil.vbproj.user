@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="sewa.vb">
+    <Compile Update="EditPenyewa.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="sistemPenyewaanMobil.vb">
+    <Compile Update="InfoPenyewa.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="TambahSewa.vb">
+    <Compile Update="Penyewa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TambahPenyewa.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

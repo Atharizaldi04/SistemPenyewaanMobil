@@ -18,3 +18,15 @@ D:\Probes_ProgramVisual\sistem_penyewaan_mobil\sistem_penyewaan_mobil\obj\Debug\
 D:\Probes_ProgramVisual\sistem_penyewaan_mobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.pdb
 D:\Probes_ProgramVisual\sistem_penyewaan_mobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.genruntimeconfig.cache
 D:\Probes_ProgramVisual\sistem_penyewaan_mobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.mobil.resources
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.vbproj.AssemblyReference.cache
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.Home.resources
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.Resources.resources
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.Penyewa.resources
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.vbproj.GenerateResource.cache
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.AssemblyInfoInputs.cache
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.AssemblyInfo.vb
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.vbproj.CoreCompileInputs.cache
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.dll
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\ref\sistem_penyewaan_mobil.dll
+D:\Angga\SistemPenyewaanMobil\sistem_penyewaan_mobil\obj\Debug\net5.0-windows\sistem_penyewaan_mobil.pdb
